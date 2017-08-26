@@ -1,5 +1,5 @@
 
-title: My Resume
+title: CV Lennert Schepers
 url: 'https://github.com/LennertSchepers'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -14,7 +14,7 @@ style: styles-3
 
 #Profile information
 name: Lennert Schepers
-tagline: Scientist
+tagline: PhD Candidate
 pic: lennert.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
